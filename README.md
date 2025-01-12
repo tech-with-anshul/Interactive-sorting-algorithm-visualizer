@@ -27,8 +27,8 @@
    <h2>📦 Installation and Setup</h2>
     <ol>
         <li><strong>Clone the repository:</strong></li>
-        <pre><code>git clone https://github.com/tech-with-anshul/Sortify.git
-cd Sortify</code></pre>
+        <pre><code>git clone https://github.com/tech-with-anshul/Interactive-sorting-algorithm-visualizer
+cd Interactive-sorting-algorithm-visualizer</code></pre>
 
    <li><strong>Install dependencies:</strong></li>
         <pre><code>npm install</code></pre>
